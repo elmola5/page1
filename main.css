@@ -85,3 +85,10 @@ a:hover{
 	transition:all 1s;
 }
 
+.palabra{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	font-size:5em;
+	color: white;
+}
